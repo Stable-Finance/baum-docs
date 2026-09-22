@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Baum AI docs
+  structure:
+    - type: space
+      key: space-baum-docs
+      title: Baum AI docs
+      path: docs
+      default: true
+      content:
+        directory: ./
