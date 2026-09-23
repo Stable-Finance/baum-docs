@@ -34,6 +34,7 @@ Every part of the design points at one outcome: **more capital working in USDX, 
 
 * Website: [baumai.xyz](https://baumai.xyz)
 * X: [@trybaum](https://x.com/trybaum)
+* YouTube: [@trybaum](https://www.youtube.com/@trybaum)
 * OpenSea: [Baum Deed Deck](https://opensea.io/collection/baum-deed-deck)
 * Whitepaper: [Stable-Finance/baum-whitepaper](https://github.com/Stable-Finance/baum-whitepaper)
 
