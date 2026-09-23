@@ -1,4 +1,5 @@
 ---
+icon: tree
 description: BAUM supply, allocation, and launch.
 ---
 
@@ -11,7 +12,7 @@ description: BAUM supply, allocation, and launch.
 | Allocation           | %      | Notes |
 | -------------------- | ------ | ----- |
 | Liquidity            | 20%    | Paired with USDX at TGE |
-| Broker vault reserve | 19.44% | 194,400,000 BAUM — backs redemption of every Broker (see [Broker vault](../brokers/vault.md)) |
+| Broker vault reserve | 19.44% | 194,400,000 BAUM — backs redemption of every Broker (see [Broker vault](../deed-deck/vault.md)) |
 | Treasury             | 20.56% | See [Treasury LP-out ladder](treasury-lp-out-ladder.md) |
 | Ecosystem            | 20%    | Growing the Baum network: rewards, programs, partners, integrations. Unlocked at TGE |
 | Team & Stable Company | 20%   | 12-month linear vest |

@@ -1,10 +1,11 @@
 ---
+icon: sitemap
 description: Five asset-class sub-DAOs, each with its own USDX-paired token.
 ---
 
 # Sub-DAOs
 
-There are five sub-DAOs. Each is an asset class, and every Broker belongs to exactly one — assigned at claim, at random and with equal weight (see [Sub-DAO membership](../brokers/traits.md#sub-dao-membership)).
+There are five sub-DAOs. Each is an asset class, and every Broker belongs to exactly one — assigned at claim, at random and with equal weight (see [Sub-DAO membership](../deed-deck/traits.md#sub-dao-membership)).
 
 Each sub-DAO launches its own token on the Baum launchpad. **Sub-DAO tokens pair only with USDX.**
 

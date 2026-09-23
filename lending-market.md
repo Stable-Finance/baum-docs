@@ -1,4 +1,5 @@
 ---
+icon: hand-holding-dollar
 description: One network-wide market — USDX collateral, USDG loans.
 ---
 

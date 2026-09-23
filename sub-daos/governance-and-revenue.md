@@ -1,4 +1,5 @@
 ---
+icon: landmark
 description: How Brokers govern sub-DAO treasuries, and how sub-DAO revenue is split.
 ---
 

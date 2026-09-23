@@ -1,4 +1,5 @@
 ---
+icon: wand-magic-sparkles
 description: How Deed Deck Brokers are minted — the STABLE whitelist mint and the public mint.
 ---
 
