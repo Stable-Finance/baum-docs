@@ -11,7 +11,7 @@
 
 * [The Deed Deck](deed-deck/README.md)
 * [Mint](deed-deck/mint.md)
-* [Sub-DAOs, traits and the Multiplier Attribute](deed-deck/traits.md)
+* [Cards and traits](deed-deck/traits.md)
 * [Broker vault](deed-deck/vault.md)
 * [Activation](deed-deck/activation.md)
 
