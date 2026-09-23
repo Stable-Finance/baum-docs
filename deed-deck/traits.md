@@ -71,8 +71,6 @@ A Broker's rarity comes from its whole trait set, and a rare Broker's premium is
 | Base       | A (red suits) or B (black suits) for each role |
 | Prop       | house, keys, clipboard, ledger, none |
 | Expression | smile, deadpan, glare |
-| Eyes       | normal, laser (black-suit Queens only) |
-| Misprint   | Empty Hands, Extra Pips — only a handful of cards |
 
 ### Chaos (Jokers)
 
