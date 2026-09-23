@@ -14,7 +14,7 @@ Brokers left over after the whitelist mint are sold through the [public mint](mi
 
 Send a Broker to the vault, receive **50,000 BAUM**.
 
-Redemptions open **30 days after TGE**.
+Redemptions open **30 days after TGE** — October 23.
 
 {% hint style="danger" %}
 Redeeming forfeits the Broker's wallet contents unless withdrawn first. **Empty the wallet before sending a Broker to the vault.**

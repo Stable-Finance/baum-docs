@@ -18,7 +18,7 @@ description: BAUM supply, allocation, and launch.
 
 ## Launch
 
-BAUM launches on Robinhood Chain approximately 48 hours after all 3,888 Brokers are reserved (see [Schedule](../schedule.md)).
+BAUM launches on Robinhood Chain on **September 23, 2026** (see [Schedule](../schedule.md)).
 
 At TGE:
 
