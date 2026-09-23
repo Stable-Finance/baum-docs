@@ -28,5 +28,5 @@ Each sub-DAO's LP bucket follows the same [LP-out ladder](../tokens/treasury-lp-
 ## Launch order
 
 * **Stocks** launches first, in **October**.
-* The second sub-DAO follows four to six weeks later.
-* Then one every four to six weeks.
+* The second sub-DAO follows six to twelve weeks later.
+* Then one every six to twelve weeks.
