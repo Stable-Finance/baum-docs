@@ -1,10 +1,10 @@
 ---
-description: 3,888 agent-bound wallets — the unit of participation in the Baum network.
+description: 3,888 playing cards, each an agent-bound wallet — the unit of participation in the Baum network.
 ---
 
-# What is a Broker?
+# The Deed Deck
 
-There are **3,888 Baum Brokers**. Each is an **ERC-721** with its own **ERC-6551 token-bound wallet**: a real onchain account that holds assets, executes transactions, and travels with the NFT when it is sold.
+The **Baum Deed Deck** is a collection of 3,888 NFTs. Each one is a playing card, and each card is a **Broker**. Each is an **ERC-721** with its own **ERC-6551 token-bound wallet**: a real onchain account that holds assets, executes transactions, and travels with the NFT when it is sold.
 
 A Broker is the unit of participation in the Baum network. Its wallet is:
 
@@ -14,7 +14,7 @@ A Broker is the unit of participation in the Baum network. Its wallet is:
 
 ## Lifecycle
 
-1. **[Mint](mint.md)** — burn STABLE to reserve and claim a Broker, or buy one from the [vault](vault.md) with BAUM.
+1. **[Mint](mint.md)** — in the public mint for 0.03 ETH, on [OpenSea](https://opensea.io/collection/baum-deed-deck), or from the [vault](vault.md) with BAUM.
 2. **[Activate](activation.md)** — pay a one-time BAUM fee to authorize a Baum instance on the wallet.
 3. **Fund and work** — deposit into the wallet and pick [actions](../portal/actions.md) in the Portal.
 4. **Earn and level up** — accrue [points](../points-and-levels/README.md), climb [levels](../points-and-levels/levels.md), receive sub-DAO allocations.

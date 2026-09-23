@@ -6,11 +6,15 @@ description: The BAUM reserve behind every Broker — redeem a Broker for BAUM, 
 
 The Broker vault holds the **194,400,000 BAUM** reserve: exactly **50,000 BAUM for every Broker** in the collection.
 
+{% hint style="info" %}
+Brokers left over after the whitelist mint are sold through the [public mint](mint.md#public-mint), not from the vault.
+{% endhint %}
+
 ## Redeem
 
 Send a Broker to the vault, receive **50,000 BAUM**.
 
-Redemptions open **30 days after TGE**.
+Redemptions open **30 days after TGE** — October 23.
 
 {% hint style="danger" %}
 Redeeming forfeits the Broker's wallet contents unless withdrawn first. **Empty the wallet before sending a Broker to the vault.**

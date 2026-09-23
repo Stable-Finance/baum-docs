@@ -9,9 +9,9 @@
 * [Treasury LP-out ladder](tokens/treasury-lp-out-ladder.md)
 * [Fee routing](tokens/fee-routing.md)
 
-## Baum Brokers
+## Baum Deed Deck
 
-* [What is a Broker?](brokers/README.md)
+* [The Deed Deck](brokers/README.md)
 * [Mint](brokers/mint.md)
 * [Sub-DAOs, traits and the Multiplier Attribute](brokers/traits.md)
 * [Broker vault](brokers/vault.md)
