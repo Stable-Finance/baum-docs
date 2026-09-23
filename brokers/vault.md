@@ -6,6 +6,10 @@ description: The BAUM reserve behind every Broker — redeem a Broker for BAUM, 
 
 The Broker vault holds the **194,400,000 BAUM** reserve: exactly **50,000 BAUM for every Broker** in the collection.
 
+{% hint style="info" %}
+Brokers left over after the whitelist mint are sold through the [public mint](mint.md#public-mint), not from the vault.
+{% endhint %}
+
 ## Redeem
 
 Send a Broker to the vault, receive **50,000 BAUM**.

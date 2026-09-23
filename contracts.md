@@ -7,7 +7,7 @@ description: Contract addresses.
 Contract addresses for the following are published at launch and listed at [baumai.xyz](https://baumai.xyz):
 
 * BAUM
-* Broker collection
+* Baum Deed Deck (Broker collection)
 * Broker vault
 * Locks
 * USDX lending market

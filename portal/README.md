@@ -4,6 +4,10 @@ description: Where a Broker goes to work.
 
 # Portal overview
 
+{% hint style="info" %}
+**Baum is in private beta.** Beta opens to all Deed Deck holders around October 1.
+{% endhint %}
+
 The Portal is where a Broker goes to work. The owner:
 
 1. funds the Broker's wallet with **USDX, USDG, or ETH**,

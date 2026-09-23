@@ -22,7 +22,7 @@ Every Broker carries seven traits:
 
 A Broker's rarity comes from its whole trait set, and a rare Broker's premium is what collectors pay for those traits.
 
-Art and traits are revealed the week of **September 21**.
+Every Broker is a playing card in the Deed Deck. Art and traits are revealed the week of **September 28**.
 
 ## Multiplier Attribute
 
