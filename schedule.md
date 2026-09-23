@@ -15,5 +15,5 @@ description: Launch timeline (2026).
 | Week of September 28               | Art and trait reveal. Baum beta opens to all Deed Deck holders (around October 1): hold, LP, swap (incl. DCA and limit orders), lend |
 | October                            | DEX and launchpad live. Stocks sub-DAO TGE. First allocation stream begins. Governance opens |
 | October 23 (30 days after TGE)     | Vault redemptions open |
-| 4 – 6 weeks after Stocks           | Second sub-DAO |
-| Every 4 – 6 weeks                  | Remaining sub-DAOs |
+| 4 – 12 weeks after Stocks          | Second sub-DAO |
+| Every 4 – 12 weeks                 | Remaining sub-DAOs |
