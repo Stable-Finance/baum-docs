@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-Baum is the agent inside Stable's lender portal. It reviews and verifies mortgage documents, moves loans through funding and onto the Stable Mortgage Registry, and keeps USDX — the stablecoin those loans back — liquid and on peg. It has run Stable's USDX vault for six months; the record is visible on Stable's earn page. Today it works for lenders and brokers. It is the part of Stable that already earns.
+Baum is the agent inside Stable's lender portal. It reviews and verifies mortgage documents, moves loans through funding and onto the Stable Mortgage Registry, and keeps USDX — the stablecoin those loans back — liquid and on peg. It has run Stable's USDX vault for six months; the record is visible on Stable's earn page. Today it works for lenders and brokers. It is the part of Stable that already earns. Baum runs on Stable's own agent harness, built to operate across TradFi and DeFi.
 
 These docs are about opening Baum up.
 
@@ -35,7 +35,7 @@ Every part of the design points at one outcome: **more capital working in USDX, 
 * Website: [baumai.xyz](https://baumai.xyz)
 * X: [@trybaum](https://x.com/trybaum)
 * OpenSea: [Baum Deed Deck](https://opensea.io/collection/baum-deed-deck)
-* Whitepaper (v0.1): [Stable-Finance/baum-whitepaper](https://github.com/Stable-Finance/baum-whitepaper)
+* Whitepaper: [Stable-Finance/baum-whitepaper](https://github.com/Stable-Finance/baum-whitepaper)
 
 {% hint style="info" %}
 Broker points and sub-DAO allocations are program rewards for network participation. Nothing in these docs is financial advice.

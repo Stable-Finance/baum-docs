@@ -31,13 +31,13 @@ Either of:
 ### Commit
 
 * Opened **September 10**.
-* Send STABLE to the mint address to reserve; first come, first served.
-* **No per-wallet limit** — a wallet may reserve as many Brokers as it likes while the collection lasts.
-* Closes **September 16** or when all 3,888 are reserved, whichever comes first.
+* Reservations were made by sending STABLE to the mint address, first come, first served.
+* There was **no per-wallet limit**.
+* Closed **September 16**.
 
 ### Claim
 
-**September 18.** Open for 30 days.
+Whitelist claims opened **September 18**.
 
 ### Reserving in quantity
 
