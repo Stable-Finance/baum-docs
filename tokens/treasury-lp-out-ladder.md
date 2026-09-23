@@ -1,4 +1,5 @@
 ---
+icon: chart-simple
 description: How Baum raises capital — from the open market, at prices set in advance.
 ---
 

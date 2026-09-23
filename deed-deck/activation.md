@@ -1,4 +1,5 @@
 ---
+icon: power-off
 description: A Broker must be activated to earn.
 ---
 

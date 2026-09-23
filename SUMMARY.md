@@ -1,21 +1,19 @@
 # Table of contents
 
+## Getting started
+
 * [Introduction](README.md)
-
-## Tokens
-
-* [Token overview](tokens/README.md)
-* [BAUM](tokens/baum.md)
-* [Treasury LP-out ladder](tokens/treasury-lp-out-ladder.md)
-* [Fee routing](tokens/fee-routing.md)
+* [Quickstart](quickstart.md)
+* [Official links](official-links.md)
+* [FAQ](faq.md)
 
 ## Baum Deed Deck
 
-* [The Deed Deck](brokers/README.md)
-* [Mint](brokers/mint.md)
-* [Sub-DAOs, traits and the Multiplier Attribute](brokers/traits.md)
-* [Broker vault](brokers/vault.md)
-* [Activation](brokers/activation.md)
+* [The Deed Deck](deed-deck/README.md)
+* [Mint](deed-deck/mint.md)
+* [Sub-DAOs, traits and the Multiplier Attribute](deed-deck/traits.md)
+* [Broker vault](deed-deck/vault.md)
+* [Activation](deed-deck/activation.md)
 
 ## Baum Portal
 
@@ -36,7 +34,16 @@
 * [Sub-DAOs](sub-daos/README.md)
 * [Governance and revenue](sub-daos/governance-and-revenue.md)
 
+## Tokens
+
+* [Token overview](tokens/README.md)
+* [BAUM](tokens/baum.md)
+* [Treasury LP-out ladder](tokens/treasury-lp-out-ladder.md)
+* [Fee routing](tokens/fee-routing.md)
+
 ## Reference
 
 * [Schedule](schedule.md)
 * [Contracts](contracts.md)
+* [Glossary](glossary.md)
+* [Disclaimer](disclaimer.md)

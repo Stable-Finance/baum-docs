@@ -1,4 +1,5 @@
 ---
+icon: trophy
 description: How a Broker's wallet earns points.
 ---
 
@@ -29,7 +30,7 @@ The daily cap is what shapes the ladder. It is reached by any of:
 
 Capital beyond that earns nothing more on a single Broker; **the way to earn more is more Brokers.**
 
-The [Multiplier Attribute](../brokers/traits.md#multiplier-attribute) is applied after the cap:
+The [Multiplier Attribute](../deed-deck/traits.md#multiplier-attribute) is applied after the cap:
 
 | Multiplier | Max points per day |
 | ---------- | ------------------ |

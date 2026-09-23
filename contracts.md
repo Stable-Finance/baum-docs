@@ -1,22 +1,37 @@
 ---
-description: Contract addresses.
+icon: file-contract
+description: Official contract addresses.
 ---
 
 # Contracts
 
-Contract addresses for the following are published at launch and listed at [baumai.xyz](https://baumai.xyz):
-
-* BAUM
-* Baum Deed Deck (Broker collection)
-* Broker vault
-* Locks
-* USDX lending market
-* Launchpad
-
 {% hint style="warning" %}
-Only use addresses published at [baumai.xyz](https://baumai.xyz).
+Only trust addresses listed here or at [baumai.xyz](https://baumai.xyz). See [Official links](official-links.md).
 {% endhint %}
 
----
+## Live
 
-Broker points and sub-DAO allocations are program rewards for network participation. Nothing in these docs is financial advice.
+### Baum Deed Deck (DEED)
+
+| | |
+| --- | --- |
+| Network | Robinhood Chain |
+| Standard | ERC-721, using OpenSea's standard drop contract (SeaDrop) |
+| Explorer | [Blockscout](https://robinhoodchain.blockscout.com/address/0x7816974CeEbEbc03bc9e71999F88a447Bd1C7620) |
+| Marketplace | [OpenSea](https://opensea.io/collection/baum-deed-deck) |
+
+```
+0x7816974CeEbEbc03bc9e71999F88a447Bd1C7620
+```
+
+## Coming soon
+
+These will be added here as they go live:
+
+| Contract | Notes |
+| -------- | ----- |
+| BAUM | Standard token contract |
+| Broker vault | See [Broker vault](deed-deck/vault.md) |
+| Locks | See [Levels](points-and-levels/levels.md#locked-baum) |
+| USDX lending market | See [USDX lending market](lending-market.md) |
+| Launchpad | See [Sub-DAOs](sub-daos/README.md) |

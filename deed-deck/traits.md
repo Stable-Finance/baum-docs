@@ -1,4 +1,5 @@
 ---
+icon: star
 description: Sub-DAO assignment, the seven traits, and the one trait with a mechanical effect.
 ---
 

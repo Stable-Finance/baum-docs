@@ -1,4 +1,5 @@
 ---
+icon: receipt
 description: What Baum charges for funded-wallet instances.
 ---
 

@@ -1,4 +1,5 @@
 ---
+icon: list-check
 description: What Baum can do in a Broker wallet on day one, and what comes next.
 ---
 

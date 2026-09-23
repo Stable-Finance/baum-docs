@@ -1,4 +1,5 @@
 ---
+icon: chart-line
 description: USDX is the base, not the boundary.
 ---
 

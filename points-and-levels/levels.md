@@ -1,4 +1,5 @@
 ---
+icon: stairs
 description: Five levels — higher reward weight and lower fees as points accrue.
 ---
 

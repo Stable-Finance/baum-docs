@@ -1,4 +1,5 @@
 ---
+icon: vault
 description: The BAUM reserve behind every Broker — redeem a Broker for BAUM, or buy one.
 ---
 

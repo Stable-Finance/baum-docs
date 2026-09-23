@@ -1,4 +1,5 @@
 ---
+icon: calendar
 description: Launch timeline (2026).
 ---
 
