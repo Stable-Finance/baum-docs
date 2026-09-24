@@ -41,13 +41,17 @@ Deposit **USDX, USDG or ETH** into your Broker's wallet from the [Portal](portal
 {% step %}
 ### Choose what Baum does
 
-Pick one or more [actions](portal/actions.md): hold USDX, provide liquidity to a core pool, swap (one-off, DCA or limit order), or lend USDG.
+Today that mostly means trading. Hand Baum a wallet and it swaps tokens on Solana and Robinhood Chain, one confirmation at a time — nothing is signed until you say so.
+
+You can also point it at someone: `/follow fomo <handle>` for a trader, `/follow <name>` for a member of Congress. Baum tells you when they trade, and offers to [mirror](#example-follow-a-trader-mirror-a-trade) it at a size you set.
+
+The rest of the [Portal actions](portal/actions.md) — holding USDX, providing liquidity to a core pool, DCA and limit orders, lending USDG — arrive as they go live.
 {% endstep %}
 
 {% step %}
 ### Earn points and level up
 
-Your Broker earns [points](points-and-levels/README.md) every day, up to 30,000. Lending USDG earns the most: 3 points per $1 per day. Points unlock [levels](points-and-levels/levels.md), which raise your reward weight and lower your fees.
+Your Broker earns [points](points-and-levels/README.md) every day, up to 30,000. Once the Portal opens, lending USDG earns the most: 3 points per $1 per day. Points unlock [levels](points-and-levels/levels.md), which raise your reward weight and lower your fees.
 {% endstep %}
 
 {% step %}
@@ -99,7 +103,7 @@ Two doors, depending on what you hold.
 | `/following` | Who Baum is watching for you |
 | `/unfollow [who]` | Stop the notifications |
 | `/mirror [ticker]` | Propose an order matching the last one |
-| `/confirm <code>` | Approve an order Baum proposed |
+| `/confirm <code>` | Approve an order — only needed where there are no buttons |
 | `/cancel` | Drop a proposed order |
 | `/disconnect` | Remove connected accounts |
 | `/reset` | Forget the conversation |
@@ -174,7 +178,7 @@ can be sold again — a new one can take the money and not give it back.
 /mirror
 ```
 
-The order is priced **when you ask**, not when the alert landed — a proposal built at notification time and sat on would be consenting to a price nobody had seen. Baum works out the swap, shows it to you, and hands back a five-character code.
+The order is priced **when you ask**, not when the alert landed — a proposal built at notification time and sat on would be consenting to a price nobody had seen. Baum works out the swap and shows it to you, with the buttons to accept or drop it.
 
 A Fomo alert names one token, so a bare `/mirror` is unambiguous. A congressional filing can list several, and Baum will ask which — `/mirror NVDA` names one.
 {% endstep %}
@@ -182,11 +186,15 @@ A Fomo alert names one token, so a bare `/mirror` is unambiguous. A congressiona
 {% step %}
 ### Confirm
 
+The proposal arrives with two buttons under it:
+
 ```
-/confirm A7K2P
+[ Confirm ]  [ Cancel ]
 ```
 
-That is the only thing that signs anything. `/cancel` drops it instead. Nothing Baum proposes is placed until the code comes back.
+Tapping **Confirm** is the only thing that signs anything. The buttons come off the message as soon as one is pressed, so there is nothing left to press twice.
+
+On SMS, where there are no buttons, the same proposal carries a five-character code instead — `/confirm A7K2P`. Either way, nothing Baum proposes is placed until you say so.
 {% endstep %}
 {% endstepper %}
 
