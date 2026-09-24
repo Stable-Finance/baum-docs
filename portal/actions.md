@@ -1,9 +1,17 @@
 ---
 icon: list-check
-description: What Baum can do in a Broker wallet on day one, and what comes next.
+description: What Baum can do in a Broker wallet once the Portal opens, and what comes next.
 ---
 
-# Actions at launch
+# Portal actions
+
+{% hint style="info" %}
+**Not live yet.** Today Baum works through the chat — swaps on Solana and Robinhood Chain, and alerts on the traders and members of Congress you follow. See [Messaging Baum](../quickstart.md#messaging-baum).
+
+The actions below open to all Deed Deck holders when beta opens, around October 1. See [Schedule](../schedule.md).
+{% endhint %}
+
+## When beta opens
 
 1. **Hold** USDX in the Broker wallet.
 2. **LP** a core pool:

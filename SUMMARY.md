@@ -18,7 +18,7 @@
 ## Baum Portal
 
 * [Portal overview](portal/README.md)
-* [Actions at launch](portal/actions.md)
+* [Portal actions](portal/actions.md)
 * [Yield beyond USDX](portal/yield-beyond-usdx.md)
 * [Portal fees](portal/fees.md)
 
