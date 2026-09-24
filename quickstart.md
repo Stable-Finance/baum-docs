@@ -1,6 +1,6 @@
 ---
 icon: rocket
-description: From zero to a working Broker in seven steps.
+description: From zero to a working Broker in five steps.
 ---
 
 # Quickstart
@@ -25,17 +25,15 @@ Every Broker comes with its own onchain wallet, seeded with 0.01 USDX, 0.01 mUSD
 {% endstep %}
 
 {% step %}
-### Activate it
+### Connect your Broker to Telegram
 
-Activation lets Baum operate your Broker's wallet. It's a one-time fee of **50,000 BAUM** at Levels 1–2, and it gets cheaper as BAUM grows (see [Sunset rule](points-and-levels/sunset-rule.md)).
+Baum answers on Telegram, as [@BaumReviewBot](https://t.me/BaumReviewBot). To open the chat, go to [baumai.xyz/broker](https://baumai.xyz/broker), connect the wallet holding your Broker, and sign a message.
 
-See [Activation](deed-deck/activation.md).
-{% endstep %}
+No transaction, no gas, no private key — the signature just proves the wallet is yours, and Baum reads the Broker balance off Robinhood Chain itself. What comes back is a one-time `t.me` link that opens the chat already tied to that wallet.
 
-{% step %}
-### Fund the wallet
+If you reserved a Broker rather than minting one, tap **Connect Telegram** beside your wallet on [baumai.xyz](https://baumai.xyz) instead.
 
-Deposit **USDX, USDG or ETH** into your Broker's wallet from the [Portal](portal/README.md). Baum can only use approved contracts and can only send funds back to you.
+See [Messaging Baum](#messaging-baum) for the full command list.
 {% endstep %}
 
 {% step %}
@@ -53,20 +51,11 @@ The rest of the [Portal actions](portal/actions.md) — holding USDX, providing 
 
 Your Broker earns [points](points-and-levels/README.md) every day, up to 30,000. Once the Portal opens, lending USDG earns the most: 3 points per $1 per day. Points unlock [levels](points-and-levels/levels.md), which raise your reward weight and lower your fees.
 {% endstep %}
-
-{% step %}
-### Talk to Baum
-
-Baum is a chat bot. Connect it from [baumai.xyz](https://baumai.xyz) and you can ask it questions, hand it a wallet, follow a trader, and place orders — all from the chat.
-
-See [Messaging Baum](#messaging-baum) below.
-{% endstep %}
 {% endstepper %}
 
 ## Good to know
 
 * **One Broker caps at 30,000 points a day** — about $10,000 of USDG lent. To earn more, add more Brokers.
-* **Activation resets when a Broker is sold.** The new owner reactivates. Level and traits stay with the card.
 * **Wallet contents travel with the Broker.** Withdraw anything you want to keep before you sell it or send it to the [vault](deed-deck/vault.md).
 * **Idle Brokers lose points** — about 3% a week.
 
