@@ -11,6 +11,19 @@ Only trust addresses listed here or at [baumai.xyz](https://baumai.xyz). See [Of
 
 ## Live
 
+### BAUM
+
+| | |
+| --- | --- |
+| Network | Robinhood Chain |
+| Standard | ERC-20 |
+| Explorer | [Blockscout](https://robinhoodchain.blockscout.com/token/0xc17FBa7484bdB276C2b5A7593E14fcAF21155C45) |
+| Launch | [Pons](https://www.ponsfamily.com/launchpad/0xc17FBa7484bdB276C2b5A7593E14fcAF21155C45) |
+
+```
+0xc17FBa7484bdB276C2b5A7593E14fcAF21155C45
+```
+
 ### Baum Deed Deck (DEED)
 
 | | |
@@ -30,7 +43,6 @@ These will be added here as they go live:
 
 | Contract | Notes |
 | -------- | ----- |
-| BAUM | Standard token contract |
 | Broker vault | See [Broker vault](deed-deck/vault.md) |
 | Locks | See [Levels](points-and-levels/levels.md#locked-baum) |
 | USDX lending market | See [USDX lending market](lending-market.md) |
