@@ -82,7 +82,6 @@ Two doors, depending on what you hold.
 | ----------------------------- | ----------------------------------------------------- |
 | `/help` | The list, and how to stop |
 | `/wallet` | Show your wallets — Baum makes you one on each chain |
-| `/wallet <private key>` | Add a wallet of your own (Telegram only) |
 | `/wallet export [address]` | Hand a key back to you |
 | `/wallet forget <address>` | Drop one wallet |
 | `/robinhood` | Connect a Robinhood account |
@@ -101,7 +100,7 @@ Anything that is not a command is just a question — about the sale, the collec
 
 ### Wallets
 
-The first time you need one, Baum makes you a wallet on each chain it trades — Solana and EVM — and holds the keys encrypted, using them only for swaps you confirm. `/wallet` shows them. `/wallet export` hands a key back so you own it outside the chat too, and `/wallet <private key>` imports one you already have; Baum deletes that message after reading it.
+The first time you need one, Baum makes you a wallet on each chain it trades — Solana and EVM — and holds the keys encrypted, using them only for swaps you confirm. `/wallet` shows them. `/wallet export` hands a key back so you own it outside the chat too.
 
 Nothing trades until you fund one.
 
