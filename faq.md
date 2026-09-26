@@ -41,7 +41,9 @@ Baum is in private beta now. Beta opens to all Deed Deck holders the week of Sep
 
 <summary>Does Baum hold my funds?</summary>
 
-No. Your funds sit in your Broker's wallet, and you own the Broker. Baum can only use approved contracts, stays within a maximum slippage, and can't send funds anywhere except back to you. See [Portal overview](portal/README.md#scoped-authorization).
+No. Your Broker's funds sit in its own wallet, and you own the Broker. Baum can only use approved contracts, stays within a maximum slippage, and can't send funds anywhere except back to you. See [Portal overview](portal/README.md#scoped-authorization).
+
+On Telegram, Baum can also make you a trading wallet on each chain it trades. It gives you the private key to each one and then deletes that message, so save the key somewhere safe. Baum only uses these wallets for swaps you confirm. See [Quickstart](quickstart.md#wallets).
 
 </details>
 

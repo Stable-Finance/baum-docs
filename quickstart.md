@@ -101,7 +101,7 @@ Anything that is not a command is just a question — about the sale, the collec
 
 ### Wallets
 
-The first time you need one, Baum makes you a wallet on each chain it trades — Solana and EVM — and holds the keys encrypted, using them only for swaps you confirm. `/wallet` shows them. `/wallet export` hands a key back so you own it outside the chat too, and `/wallet <private key>` imports one you already have; Baum deletes that message after reading it.
+The first time you need one, Baum makes you a wallet on each chain it trades — Solana and EVM — and holds the keys encrypted, using them only for swaps you confirm. `/wallet` shows them. Baum gives you the key to each wallet it makes and then deletes the message, so save it somewhere safe. `/wallet export` hands a key back so you own it outside the chat too, and `/wallet <private key>` imports one you already have; Baum deletes that message after reading it.
 
 Nothing trades until you fund one.
 
