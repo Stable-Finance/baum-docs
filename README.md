@@ -24,6 +24,9 @@ Every part of the design points at one outcome: **more capital working in USDX, 
 | If you want to…                           | Read                                                  |
 | ----------------------------------------- | ----------------------------------------------------- |
 | Get going fast                            | [Quickstart](quickstart.md)                           |
+| Use Baum in Telegram                      | [Baum Agent](agent/README.md)                         |
+| Launch agents that trade on their own     | [Baum Harness](harness/README.md)                     |
+| Build an app on Baum                      | [Baum API](api/README.md)                             |
 | Get a Broker                              | [Mint](deed-deck/mint.md) or [OpenSea](https://opensea.io/collection/baum-deed-deck) |
 | Put a Broker to work                      | [Activation](deed-deck/activation.md) and [Baum Portal](portal/README.md) |
 | Earn points and level up                  | [Earning points](points-and-levels/README.md) and [Levels](points-and-levels/levels.md) |
