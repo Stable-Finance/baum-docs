@@ -7,7 +7,7 @@ description: The runtime that creates and runs autonomous agents for Baum's user
 
 Baum Harness is the runtime behind the agents you launch in [Baum Agent](../agent/README.md). When you say "launch an agent", Baum Agent drafts it with you. The harness then gives the agent a wallet, an identity, rules and a schedule, and runs it.
 
-It is the same harness Baum uses for its own work across Stable (see [Introduction](../README.md)), opened up so anyone can have agents of their own.
+It is the same harness Baum uses for its own work across Stable (see [Introduction](../README.md)), so any Baum user can have agents of their own.
 
 ## What an agent is
 
